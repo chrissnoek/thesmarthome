@@ -35,6 +35,7 @@ Nieuw met smart home? Begin bij onze uitgebreide beginnersgids.
 
 ### Entertainment
 - [Beste slimme speakers](/beste-slimme-speakers/)
+- [Wat is Google Chromecast?](/wat-is-chromecast/)
 
 ### Tuin en klussen
 - [Beste robotmaaier](/beste-robotmaaier/)
@@ -45,6 +46,19 @@ Nieuw met smart home? Begin bij onze uitgebreide beginnersgids.
 
 ### Smart home platform
 - [Welk smart home platform past bij mij?](/wat-is-een-smart-home-platform-en-welke-hub-past-daarbij/)
+
+### Energie
+- [Coolblue Energie](/coolblue-energie/)
+
+### Persoonlijke verzorging
+- [Beste slimme tandenborstel](/beste-slimme-tandenborstel/)
+- [Beste slimme weegschaal met app](/slimme-weegschaal-met-app/)
+
+### Starterspakketten
+- [Overzicht starterspakketten](/starterspakket/)
+- [Slim & Veilig Indoor + Outdoor](/starterspakket/slim-veilig-indoor-outdoor/)
+- [Gemak & Comfort Deluxe](/starterspakket/gemak-comfort-deluxe/)
+- [Slim & Verlicht Deluxe](/starterspakket/slim-verlicht-deluxe/)
 
 ## Smart home beveiligen
 

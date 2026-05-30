@@ -160,12 +160,8 @@ body {
   line-height: 1.7;
 }
 .prose-editorial h1 {
-  font-family: var(--font-display);
-  font-weight: 400;
-  font-size: clamp(2.5rem, 5vw, 4.25rem);
-  line-height: 1.02;
-  letter-spacing: -0.025em;
-  margin: 0 0 1.5rem;
+  /* The page hero already renders the title; hide the duplicate H1 in markdown. */
+  display: none;
 }
 .prose-editorial h2 {
   font-family: var(--font-display);
