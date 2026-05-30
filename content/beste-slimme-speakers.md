@@ -30,7 +30,7 @@ Uitstekende geluidskwaliteit voor een concurrerende prijs. Zowel Bluetooth als w
 
 **Compatibel met:** Google Assistant
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/6lPGNpQ) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fharman-kardon-citation-one-mkii-zwart-wifi-speaker%2F9200000121938115%2F&name=Harman%20Kardon%20Citation%20One%20MKII%20Zwart%20-%20Wifi%20s...)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fharman-kardon-citation-one-mkii-zwart-wifi-speaker%2F9200000121938115%2F&name=Harman%20Kardon%20Citation%20One%20MKII%20Zwart%20-%20Wifi%20s...)
 
 ---
 
@@ -49,7 +49,7 @@ Spatwaterdicht — uitstekend voor de badkamer. Ondersteunt zowel Google Assista
 
 **Compatibel met:** Google Assistant, Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7YJe5pP) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fsonos-one-zwart%2F9200000083962844%2F&name=Sonos%20One%20-%20Zwart) | [Amazon.nl](https://www.amazon.nl/Sonos-One-Smart-Speaker-Zwart/dp/B07P5JHJJT/)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fsonos-one-zwart%2F9200000083962844%2F&name=Sonos%20One%20-%20Zwart) | [Amazon.nl](https://www.amazon.nl/Sonos-One-Smart-Speaker-Zwart/dp/B07P5JHJJT/)
 
 ---
 
@@ -68,7 +68,7 @@ Hoge geluidskwaliteit met zowel Bluetooth als wifi. Ondersteunt Google Assistant
 
 **Compatibel met:** Google Assistant, Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7a2Q43X) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fbose-home-speaker-300-smart-speaker-zwart%2F9200000112997782%2F&name=Bose%20Home%20speaker%20300%20-%20Smart%20speaker%20-%20Zwart)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fbose-home-speaker-300-smart-speaker-zwart%2F9200000112997782%2F&name=Bose%20Home%20speaker%20300%20-%20Smart%20speaker%20-%20Zwart)
 
 ---
 

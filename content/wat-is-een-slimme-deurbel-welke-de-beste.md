@@ -47,7 +47,7 @@ Werkt op batterij (180 dagen autonomie) met lokale opslag via Homebase — geen 
 
 **Compatibel met:** Google Assistant, Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7ojl5jA) | [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/)
 
 ---
 
@@ -66,7 +66,7 @@ HD-camera met 160° beeldhoek (4:3-verhouding) en uitstekende dag- en nachtbeeld
 
 **Compatibel met:** Google Assistant, Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7D9DW9j) | [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/)
 
 ---
 

@@ -47,9 +47,6 @@ Nieuw met smart home? Begin bij onze uitgebreide beginnersgids.
 ### Smart home platform
 - [Welk smart home platform past bij mij?](/wat-is-een-smart-home-platform-en-welke-hub-past-daarbij/)
 
-### Energie
-- [Coolblue Energie](/coolblue-energie/)
-
 ### Persoonlijke verzorging
 - [Beste slimme tandenborstel](/beste-slimme-tandenborstel/)
 - [Beste slimme weegschaal met app](/slimme-weegschaal-met-app/)

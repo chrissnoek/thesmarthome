@@ -40,7 +40,7 @@ Meer dan 150.000 verkochte exemplaren. Gecertificeerd en in drie minuten geïnst
 
 **Compatibel met:** Google Assistant, Amazon Alexa, Apple HomeKit, IFTTT, Homey
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7QAeN0d) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnuki-smart-lock-2-0%2F9200000103377643%2F&name=Nuki%20Smart%20Lock%202.0) | [Amazon.nl](https://amzn.to/3agT8Zq)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fnuki-smart-lock-2-0%2F9200000103377643%2F&name=Nuki%20Smart%20Lock%202.0) | [Amazon.nl](https://amzn.to/3agT8Zq)
 
 ---
 
@@ -61,7 +61,7 @@ Nederlands bedrijf. Vervangt de cilinder in plaats van montage op het bestaande 
 
 **Compatibel met:** Geen spraakassistenten
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/KV4pja8) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fbold-smart-lock-sx-33-cilinder-rvs-zilver%2F9300000001225565%2F&name=Bold%20Smart%20Lock%20SX-33)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fbold-smart-lock-sx-33-cilinder-rvs-zilver%2F9300000001225565%2F&name=Bold%20Smart%20Lock%20SX-33)
 
 ---
 
@@ -83,7 +83,7 @@ Gemonteerd op het bestaande slot, vergelijkbaar met de Nuki. Met locatiegebaseer
 
 **Compatibel met:** Google Assistant, Apple HomeKit
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/rwN0kn4) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fyale-linus-smart-door-lock-mat-zwart%2F9300000009914094%2F&name=Yale%20Linus%20Smart%20Door%20Lock)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fyale-linus-smart-door-lock-mat-zwart%2F9300000009914094%2F&name=Yale%20Linus%20Smart%20Door%20Lock)
 
 ---
 

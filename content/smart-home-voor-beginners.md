@@ -54,7 +54,7 @@ Apparaten die niet up-to-date zijn, zijn erg kwetsbaar voor hackers.
 
 ## Smart home in Nederland
 
-Energiebedrijven zoals Eneco investeren in slimme functies. Slimme meters worden mainstream. Grote retailers zoals Coolblue en Bol.com hebben aparte afdelingen voor smart home producten.
+Energiebedrijven zoals Eneco investeren in slimme functies. Slimme meters worden mainstream. Grote retailers zoals Bol.com hebben aparte afdelingen voor smart home producten.
 
 ## Wat kost een Smart Home?
 

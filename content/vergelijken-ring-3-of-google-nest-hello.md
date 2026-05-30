@@ -70,7 +70,7 @@ Ring heeft een ingebouwde beltoon. De Nest Hello toont alleen een lampje — gee
 
 **Wifi:** Let op dat je wifi-signaal sterk genoeg is tot de voordeur.
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/Kma4Wqq) | [Bol.com](https://www.bol.com/nl/p/ring-video-deurbel-3/) | [Amazon.nl](https://amzn.to/2H61IiW)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/ring-video-deurbel-3/) | [Amazon.nl](https://amzn.to/2H61IiW)
 
 ## Google Nest Hello ervaringen
 
@@ -80,7 +80,7 @@ Ring heeft een ingebouwde beltoon. De Nest Hello toont alleen een lampje — gee
 
 **Installatie:** Complexer vanwege vaste stroomvereiste. Google biedt een overzicht van installateurs.
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7D9DW9j) | [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/) | [Amazon.nl](https://amzn.to/2TpA7MG)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/) | [Amazon.nl](https://amzn.to/2TpA7MG)
 
 ## Conclusie: welke kies je?
 

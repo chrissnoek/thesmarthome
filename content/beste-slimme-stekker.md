@@ -15,7 +15,7 @@ De beste slimme stekker voor integratie met alle gangbare smart home platforms. 
 
 **Compatibel met:** Google Assistant, Apple HomeKit, IFTTT, Philips Hue, Home Assistant
 
-**Kopen:** [Coolblue](https://cb.prf.hn) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 
@@ -35,7 +35,7 @@ Beste beschikbaarheid in Nederland. Werkt met Philips Hue Bridge v2+.
 
 **Compatibel met:** Google Assistant, IFTTT, Philips Hue, Home Assistant
 
-**Kopen:** [Coolblue](https://cb.prf.hn) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 
@@ -45,7 +45,7 @@ Ingebouwde energiemeting voor verbruiksmonitoring. Let op: vereist Fibaro home b
 
 **Compatibel met:** Apple HomeKit
 
-**Kopen:** [Coolblue](https://cb.prf.hn) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 

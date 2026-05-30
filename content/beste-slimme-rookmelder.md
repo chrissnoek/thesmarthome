@@ -32,7 +32,7 @@ Rookmelders zijn ook beschikbaar gecombineerd met CO-detectie. Let op: optimale 
 
 **Compatibel met:** Google Assistant, Apple HomeKit, IFTTT, Philips Hue, Home Assistant
 
-**Kopen:** [Coolblue](https://www.coolblue.nl) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 
@@ -49,7 +49,7 @@ Ingebouwde CO-detectie, bewegingssensor, naadloze Nest productintegratie.
 
 **Compatibel met:** Google Assistant, IFTTT, Philips Hue, Home Assistant
 
-**Kopen:** [Coolblue](https://www.coolblue.nl) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 
@@ -61,7 +61,7 @@ Directe integratie met Toon thermostaat. Voordelig geprijsd.
 
 **Compatibel met:** Fibaro home bridge, Toon thermostaat
 
-**Kopen:** [Coolblue](https://www.coolblue.nl) | [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
+**Kopen:** [Bol.com](https://www.bol.com) | [Amazon.nl](https://amazon.nl)
 
 ---
 

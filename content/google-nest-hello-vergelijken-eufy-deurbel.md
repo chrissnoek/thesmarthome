@@ -61,13 +61,13 @@ Beide deurbellen hebben:
 
 Google's gevestigde naam in smart home. Naadloze integratie met Google Nest Hub — belsignaal verschijnt direct op het display.
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7D9DW9j) | [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/9200000092647783/) | [Amazon.nl](https://amzn.to/2TpA7MG)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/google-nest-hello-videodeurbel/9200000092647783/) | [Amazon.nl](https://amzn.to/2TpA7MG)
 
 ## Eufy deurbel
 
 Eufy biedt hogere resolutie, geen abonnementskosten en lokale opslag. De Homebase functioneert ook als binnenbel.
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7ojl5jA) | [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/) | [Amazon.nl](https://www.amazon.nl/eufy-Voordeurbellen-maandelijkse-persoonsherkenning-audiofunctie/dp/B081VD7VVZ/)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/) | [Amazon.nl](https://www.amazon.nl/eufy-Voordeurbellen-maandelijkse-persoonsherkenning-audiofunctie/dp/B081VD7VVZ/)
 
 ## Conclusie
 

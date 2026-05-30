@@ -24,7 +24,7 @@ Innr biedt zowel indoor als outdoor slimme verlichting.
 - Bridge vereist boven 10 lampen
 - Alleen app of spraakbediening (geen aparte schakelaar)
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/6PGVo9x) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fb%2Finnr-lighting%2F599533091%2F) | [Amazon.nl](https://amzn.to/3p8EgTa)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fb%2Finnr-lighting%2F599533091%2F) | [Amazon.nl](https://amzn.to/3p8EgTa)
 
 ---
 
@@ -41,7 +41,7 @@ Nederlands smart home merk met binnenlampen en LED-strips.
 - Geen buitenverlichting
 - Alleen app/spraakbediening
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/75dqBJw) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fl%2Fslimme-verlichting%2FN%2F30752%2F) | [Amazon.nl](https://amzn.to/3bRjqno)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fl%2Fslimme-verlichting%2FN%2F30752%2F) | [Amazon.nl](https://amzn.to/3bRjqno)
 
 ---
 
@@ -57,7 +57,7 @@ Stijlgerichte slimme verlichting met een aparte schakelaar (vergelijkbaar met Ph
 **Nadelen:**
 - Geen buitenverlichting
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7Avk5q4) | [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fl%2Fslimme-verlichting%2FN%2F30752%2F) | [Amazon.nl](https://amzn.to/2XWokHF)
+**Kopen:** [Bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1073470&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fl%2Fslimme-verlichting%2FN%2F30752%2F) | [Amazon.nl](https://amzn.to/2XWokHF)
 
 ---
 
@@ -72,7 +72,7 @@ Stijlgerichte slimme verlichting met een aparte schakelaar (vergelijkbaar met Ph
 - Geen buitenverlichting
 - Smart Dimmer incompatibel met standaard slimme lampen
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7DBLnXz) | [Amazon.nl](https://amzn.to/3iHh63T)
+**Kopen:** [Amazon.nl](https://amzn.to/3iHh63T)
 
 ---
 

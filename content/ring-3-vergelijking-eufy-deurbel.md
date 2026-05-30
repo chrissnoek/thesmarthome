@@ -57,7 +57,7 @@ Ring's integratie met Amazon biedt naadloze Alexa-compatibiliteit. Bekend om goe
 
 **Compatibel met:** Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/Kma4Wqq) | [Bol.com](https://www.bol.com/nl/p/ring-video-deurbel-3/) | [Amazon.nl](https://amzn.to/2H61IiW)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/ring-video-deurbel-3/) | [Amazon.nl](https://amzn.to/2H61IiW)
 
 ## Eufy deurbel
 
@@ -65,7 +65,7 @@ Het grote voordeel van Eufy is lokale opslag zonder verplicht abonnement. Beeldk
 
 **Compatibel met:** Google Assistant, Amazon Alexa
 
-**Kopen:** [Coolblue](https://cb.prf.hn/l/7ojl5jA) | [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/)
+**Kopen:** [Bol.com](https://www.bol.com/nl/p/eufy-video-deurbel-draadloos-inclusief-homebase/9200000130319888/)
 
 ## Conclusie: Eufy of Ring?
 
